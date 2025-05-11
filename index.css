@@ -84,8 +84,11 @@ main {
     flex-direction: column;
     padding-left: 20px;
     padding-right: 20px;
+    color: orange;
 }
-
+.article-link{
+    color: orange;
+}
 footer {
     background-color: var(--dark-red);
     border: 3px solid rgb(255, 85, 0);
